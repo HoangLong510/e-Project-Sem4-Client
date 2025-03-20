@@ -1,0 +1,30 @@
+{
+    "MetaData": {
+        "HomepageTitle": "Mua và bán trên ứng dụng di động hoặc website",
+        "HomepageDescription": "Chào mừng đến với trang chủ của chúng tôi"
+    },
+    "Header": {
+        "Mode": "Chế độ",
+        "System": "Hệ thống",
+        "Light": "Sáng",
+        "Dark": "Tối",
+        "Products": "Sản phẩm",
+        "AboutUs": "Giới thiệu",
+        "ContactUs": "Liên hệ",
+        "SignIn": "Đăng nhập",
+        "Settings": "Cài đặt",
+        "Search": "Tìm kiếm",
+        "Languages": "Ngôn ngữ"
+    },
+    "Footer": {
+        "Introduce": "Giới thiệu",
+        "IntroduceValue": "Chào mừng đến với trang web - Nền tảng Thương Mại Điện Tử Tiên Tiến! <br /><br /> Chúng tôi tự hào mang đến một sàn giao dịch trực tuyến hiện đại, dễ sử dụng và bảo mật tuyệt đối, giúp kết nối người mua và người bán trên khắp cả nước. Đây là nơi bạn có thể tìm thấy vô vàn sản phẩm chất lượng, từ hàng hóa tiêu dùng, công nghệ, thời trang cho đến các dịch vụ chuyên nghiệp, tất cả đều chỉ cách bạn một vài cú click chuột. <br /><br /> Với mục tiêu tạo ra một môi trường giao dịch minh bạch, công bằng và hiệu quả, chúng tôi cam kết mang đến trải nghiệm mua sắm tuyệt vời cho người tiêu dùng và cơ hội kinh doanh đột phá cho các nhà cung cấp. Bằng các công cụ hỗ trợ mạnh mẽ, dễ sử dụng và dịch vụ khách hàng tận tâm, đây là lựa chọn hoàn hảo cho mọi nhu cầu mua sắm và kinh doanh trực tuyến của bạn. <br /><br /> Hãy tham gia cùng chúng tôi và trải nghiệm sự khác biệt mà chúng tôi mang lại!",
+        "Contact": "Liên hệ",
+        "AddressValue": "62 Đường 36, KDC Vạn Phúc, phường Hiệp Bình Phước, Thành phố Thủ Đức",
+        "AllRightsReservedBy": "Mọi bản quyền được sở hữu bởi",
+        "Map": "Bản đồ"
+    },
+    "Homepage": {
+        "Homepage": "Trang chủ"
+    }
+}

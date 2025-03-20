@@ -1,0 +1,30 @@
+{
+    "MetaData": {
+        "HomepageTitle": "Buy and sell on the mobile app or website",
+        "HomepageDescription": "Welcome to our homepage"
+    },
+    "Header": {
+        "Mode": "Mode",
+        "System": "System",
+        "Light": "Light",
+        "Dark": "Dark",
+        "Products": "Products",
+        "AboutUs": "About us",
+        "ContactUs": "Contact us",
+        "SignIn": "Sign in",
+        "Settings": "Settings",
+        "Search": "Search",
+        "Languages": "Languages"
+    },
+    "Footer": {
+        "Introduce": "Introduce",
+        "IntroduceValue": "Welcome to the website - Advanced E-Commerce Platform! <br /><br /> We are proud to bring a modern, easy-to-use and absolutely secure online trading platform, helping to connect buyers and sellers across the country. This is where you can find countless quality products, from consumer goods, technology, fashion to professional services, all just a few clicks away. <br /><br /> With the goal of creating a transparent, fair and efficient trading environment, we are committed to bringing great shopping experiences to consumers and breakthrough business opportunities to suppliers. With powerful, easy-to-use support tools and dedicated customer service, this is the perfect choice for all your online shopping and business needs. <br /><br /> Join us and experience the difference we bring!",
+        "Contact": "Contact",
+        "AddressValue": "62 Street 36, Van Phuc Residential Area, Hiep Binh Phuoc Ward, Thu Duc City",
+        "AllRightsReservedBy": "All rights reserved by",
+        "Map": "Map"
+    },
+    "Homepage": {
+        "Homepage": "Homepage"
+    }
+}

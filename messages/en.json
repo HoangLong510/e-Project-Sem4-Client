@@ -1,7 +1,9 @@
 {
     "MetaData": {
         "HomepageTitle": "Buy and sell on the mobile app or website",
-        "HomepageDescription": "Welcome to our homepage"
+        "HomepageDescription": "Welcome to our homepage",
+        "LoginTitle": "Login",
+        "LoginDescription": "Welcome to our login page"
     },
     "Header": {
         "Mode": "Mode",
@@ -14,7 +16,8 @@
         "SignIn": "Sign in",
         "Settings": "Settings",
         "Search": "Search",
-        "Languages": "Languages"
+        "Languages": "Languages",
+        "Homepage": "Homepage"
     },
     "Footer": {
         "Introduce": "Introduce",

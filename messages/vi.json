@@ -1,7 +1,9 @@
 {
     "MetaData": {
         "HomepageTitle": "Mua và bán trên ứng dụng di động hoặc website",
-        "HomepageDescription": "Chào mừng đến với trang chủ của chúng tôi"
+        "HomepageDescription": "Chào mừng đến với trang chủ của chúng tôi",
+        "LoginTitle": "Đăng nhập",
+        "LoginDescription": "Chào mừng đến với trang đăng nhập của chúng tôi"
     },
     "Header": {
         "Mode": "Chế độ",
@@ -14,7 +16,8 @@
         "SignIn": "Đăng nhập",
         "Settings": "Cài đặt",
         "Search": "Tìm kiếm",
-        "Languages": "Ngôn ngữ"
+        "Languages": "Ngôn ngữ",
+        "Homepage": "Trang chủ"
     },
     "Footer": {
         "Introduce": "Giới thiệu",

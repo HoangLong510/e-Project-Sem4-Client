@@ -201,7 +201,7 @@ export default function Footer() {
                             }}
                         >
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.654308819446!2d106.66699317415178!3d10.761066459385966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1c3de1b231%3A0x6293504381c89f50!2zVHLGsOG7nW5nIENhbyDEkeG7i25nIEZQVCBQb2x5dGVjaG5pYw!5e0!3m2!1svi!2s!4v1709403197067!5m2!1svi!2s"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2770.836183466759!2d106.71085757898392!3d10.84539481395111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529564f2b4679%3A0x92c1b5bfdc78c98!2zRlBUIEFwdGVjaCBW4bqhbiBQaMO6Yw!5e0!3m2!1svi!2sus!4v1742491192891!5m2!1svi!2sus"
                                 width="100%"
                                 height={isMobile ? "250" : "300"}
                                 style={{ border: 0 }}

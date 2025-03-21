@@ -33,7 +33,7 @@ export default async function RootLayout({ children, params }) {
     }
 
     return (
-        <html>
+        <html suppressHydrationWarning>
             <body>
                 <NextIntlClientProvider>
                     <AppRouterCacheProvider>
